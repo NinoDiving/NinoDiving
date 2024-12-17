@@ -58,7 +58,7 @@ This project showcases **frontend development** expertise combined with a user-c
 - **API Integration**: Provides access to a rich and up-to-date movie database.
 
 **Technologies**: React, TypeScript, CSS  
-**Repository**: [Popcorn Box Repo](https://github.com/NinoDiving/Popcorn-Box)
+**Repository**: [Popcorn Box Repo](https://github.com/NinoDiving/PopcornBox)
 
 ### 🏙 **Bordeaux Quizz**
 An interactive quiz app designed to promote the city of Bordeaux.  
@@ -67,7 +67,7 @@ An interactive quiz app designed to promote the city of Bordeaux.
 - Clean, responsive design using modern **HTML**, **CSS**, and **JavaScript**.
 
 **Technologies**: HTML, CSS, JavaScript  
-**Repository**: [Bordeaux Quizz Repo](https://github.com/NinoDiving/Bordeaux-Quizz)
+**Repository**: [Bordeaux Quizz Repo](https://github.com/NinoDiving/BordeauxQuizz)
 
 ### 📦 **MVP for Veever** *(December 2024 - March 2025)*
 Developed a functional MVP (Minimum Viable Product) in collaboration with a team of developers.  
