@@ -1,54 +1,41 @@
-👨‍💻 Nino Jautee | Junior Web Developer
-Welcome to my GitHub! Passionate about web development and actively looking for an apprenticeship, I am eager to contribute to innovative projects while strengthening my technical and professional skills.
+# 👨‍💻 Nino Jautee | Junior Web Developer  
 
-🚀 About Me
-🎓 Professional Certification: Web and Mobile Web Developer RNCP 5
-Wild Code School, Bordeaux (2024-2025)
+🚀 Passionate about web development and actively looking for an apprenticeship.  
 
-🧗‍♂️ Soft Skills :
+---
 
-Adaptability and flexibility
-Curiosity and passion for new technologies
-Strong collaboration and effective team communication
-🌐 Languages :
+## 🛠 Technical Skills
 
-French : Native
-English : Advanced
-🛠 Technical Skills
-Web Technologies
-Languages : HTML, CSS, JavaScript, TypeScript
-Frameworks : React, Express.js, TailwindCSS
-Database : MySQL
-Runtime Environment : Node.js
-Tools
-Git / GitHub
-Agile Methodology (SCRUM)
-💼 My Recent Projects
-🎥 Popcorn Box (October 2024 - December 2024)
-A web application for searching movies, series, and animations:
+![HTML](https://img.shields.io/badge/HTML5-000000?style=flat&logo=html5&logoColor=orange)
+![CSS](https://img.shields.io/badge/CSS3-000000?style=flat&logo=css3&logoColor=blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript&logoColor=yellow)
+![React](https://img.shields.io/badge/React-000000?style=flat&logo=react&logoColor=cyan)
 
-Typo-tolerant search bar for better user experience
-Advanced filters to refine search results
-Interactive carousel to showcase popular or recommended content
-Technologies : React, TypeScript, CSS
-🏙 Bordeaux Quizz (September 2024 - October 2024)
-Interactive quiz highlighting the city of Bordeaux:
+---
 
-Creation and animation of engaging quizzes
-Technologies : HTML, CSS, JavaScript
-📦 MVP for Veever (December 2024 - March 2025)
-Full-stack development of a Minimum Viable Product (MVP) in a team:
+## 💼 My Projects  
 
-Database design and implementation
-Configuration of a robust Express.js back-end environment
-Technologies : React, TypeScript, TailwindCSS, Express.js, MySQL
-🌟 Interests
-🌊 Scuba Diving (Certified PADI Instructor)
-🥊 MMA & Boxing
-🧗‍♂️ Rock Climbing
-💻 Computing and Web Development
-📫 Contact Me!
-📧 Email : jauteenino@gmail.com
-🔗 LinkedIn : Nino Jautee
-🔗 GitHub : NinoDiving
-I am open to new opportunities, so feel free to reach out or explore my projects here on GitHub. See you soon! 🚀
+### 🎥 **Popcorn Box**  
+A web app for searching movies and series.  
+![Popcorn Box Screenshot](assets/popcorn-box.png)  
+
+- **Live Demo** : [Popcorn Box](https://popcornbox.example.com)  
+- **Tech Stack** : React, TypeScript, CSS  
+
+---
+
+## 🌟 Interests  
+
+- 🌊 **Scuba Diving** *(Certified PADI Instructor)*  
+- 🥊 **MMA & Boxing**  
+- 💻 **Technology and Programming**  
+
+---
+
+## 📫 Contact Me  
+
+- 📧 **Email** : [jauteenino@gmail.com](mailto:jauteenino@gmail.com)  
+- 🔗 **LinkedIn** : [Nino Jautee](https://www.linkedin.com/in/NinoJautee)  
+- 🔗 **GitHub** : [NinoDiving](https://github.com/NinoDiving)  
+
+---
